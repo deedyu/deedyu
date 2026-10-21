@@ -33,6 +33,6 @@
 ### ⚙️Project Languages
 
 <p>
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deedyu&amp;layout=compact&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;card_width=480" alt="Language distribution in public projects" /><br />
+  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deedyu&amp;layout=compact&amp;langs_count=10&amp;hide_title=true&amp;hide_border=true&amp;bg_color=0d1117&amp;text_color=c9d1d9&amp;card_width=480" alt="Language distribution in public projects" /><br />
   <sub>Based on code in my public repositories.</sub>
 </p>
